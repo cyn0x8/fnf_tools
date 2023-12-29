@@ -1,0 +1,3 @@
+# neocam
+
+documentation is WIP

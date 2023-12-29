@@ -1,0 +1,9 @@
+{
+	"name": "neocam",
+	"description": "custom camera system\n\nby cyn0x8",
+	
+	"color": [96, 64, 128],
+	
+	"restart": false,
+	"runsGlobally": true
+}

@@ -1,0 +1,31 @@
+[
+	{
+		"save": "nc_note_offset",
+		
+		"name": "note offset",
+		"description": "offset the camera position slightly in the singing direction of the focused character",
+		
+		"type": "bool",
+		"value": true
+	},
+	
+	{
+		"save": "nc_start_centered",
+		
+		"name": "start centered",
+		"description": "camera position starts off centered between the player and opponent",
+		
+		"type": "bool",
+		"value": true
+	},
+	
+	{
+		"save": "nc_vanilla_camera",
+		
+		"name": "vanilla camera",
+		"description": "imitate vanilla camera movement (will ignore all of the above settings)",
+		
+		"type": "bool",
+		"value": false
+	}
+]
